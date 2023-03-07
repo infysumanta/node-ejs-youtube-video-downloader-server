@@ -1,0 +1,25 @@
+{
+  "name": "ejs-youtube-video-downloader-server",
+  "version": "1.0.0",
+  "description": "A node and ejs apps to download youtube video server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infysumanta/node-ejs-youtube-video-downloader-server.git"
+  },
+  "keywords": [],
+  "author": "Sumanta Kabiraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infysumanta/node-ejs-youtube-video-downloader-server/issues"
+  },
+  "homepage": "https://github.com/infysumanta/node-ejs-youtube-video-downloader-server#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "ytdl-core": "^4.11.2"
+  }
+}
