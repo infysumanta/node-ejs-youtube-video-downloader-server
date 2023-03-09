@@ -1,3 +1,3 @@
 # Node EJS Youtube Video Downloader Server
 
-A node and ejs apps to download youtube video server
+A Node and EJS Application to download youtube video server
